@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_id"
+    android:layout_width="match_parent"
+    android:layout_height="75dp"
+    android:background="#B6AAAA">
+
+    <TableRow
+        android:id="@+id/tableRow2"
+        android:layout_width="335dp"
+        android:layout_height="41dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.066"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/bowlername"
+            android:layout_width="193dp"
+            android:layout_height="wrap_content"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/bowlerruns"
+            android:layout_width="39dp"
+            android:layout_height="wrap_content"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/bowlerovers"
+            android:layout_width="35dp"
+            android:layout_height="wrap_content"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/bowlermaiden"
+            android:layout_width="17dp"
+            android:layout_height="wrap_content"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/bowlerwickets"
+            android:layout_width="22dp"
+            android:layout_height="wrap_content"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/bowlereco"
+            android:layout_width="37dp"
+            android:layout_height="wrap_content"
+            android:text="TextView" />
+
+    </TableRow>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

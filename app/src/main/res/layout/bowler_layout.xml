@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_id"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#B6AAAA">
+
+    <TableRow
+        android:layout_width="380dp"
+        android:layout_height="30dp"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="2dp">
+
+        <TextView
+            android:id="@+id/commentrybowlername"
+            android:layout_width="163dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="TextView"
+            android:textColor="#0C0C0C"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/commentrybowlerruns"
+            android:layout_width="31dp"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textColor="#191717" />
+
+        <TextView
+            android:id="@+id/livebowlerovers"
+            android:layout_width="30dp"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textColor="#2E2C2C" />
+
+        <TextView
+            android:id="@+id/livebowlerwickets"
+            android:layout_width="22dp"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textColor="#322C2C" />
+
+        <TextView
+            android:id="@+id/livebowlereconmy"
+            android:layout_width="33dp"
+            android:layout_height="wrap_content"
+            android:text="TextView"
+            android:textColor="#1E1C1C" />
+    </TableRow>
+</androidx.constraintlayout.widget.ConstraintLayout>

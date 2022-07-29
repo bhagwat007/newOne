@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_id"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#B6AAAA">
+
+    <TableRow
+        android:layout_width="380dp"
+        android:layout_height="30dp"
+        tools:layout_editor_absoluteX="2dp"
+        tools:layout_editor_absoluteY="2dp">
+
+        <TextView
+            android:id="@+id/batsmenname"
+            android:layout_width="165dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:gravity="center_vertical"
+            android:text="@string/teama"
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/runs"
+            android:layout_width="33dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="TextView"
+            android:textColor="#283593" />
+
+        <TextView
+            android:id="@+id/balls"
+            android:layout_width="28dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="TextView"
+            android:textColor="#191818"
+            android:textSize="12dp" />
+
+        <TextView
+            android:id="@+id/fours"
+            android:layout_width="20dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="TextView"
+            android:textColor="#070707" />
+
+        <TextView
+            android:id="@+id/sixex"
+            android:layout_width="25dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="TextView"
+            android:textColor="#171616"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/strikerate"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center|center_vertical"
+            android:text="@string/textview"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            android:textStyle="normal" />
+    </TableRow>
+</androidx.constraintlayout.widget.ConstraintLayout>

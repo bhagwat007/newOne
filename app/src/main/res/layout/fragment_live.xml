@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:background="#4D8C82"
+    tools:context=".LiveFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_marginTop="60dp">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="393dp"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/Status"
+                android:layout_width="53dp"
+                android:layout_height="17dp"
+                android:layout_marginTop="4dp"
+                android:text="TextView"
+                android:textColor="#D35656"
+                app:layout_constraintEnd_toStartOf="@+id/Compition"
+                app:layout_constraintHorizontal_bias="0.636"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/Tossdata"
+                android:layout_width="378dp"
+                android:layout_height="15dp"
+                android:layout_marginBottom="12dp"
+                android:gravity="center"
+                android:text="TextView"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.466"
+                app:layout_constraintStart_toStartOf="parent" />
+
+            <TableRow
+                android:id="@+id/tableRow"
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:layout_marginBottom="4dp"
+                app:layout_constraintBottom_toTopOf="@+id/table1Row"
+                tools:layout_editor_absoluteX="5dp">
+
+                <TextView
+                    android:id="@+id/liveteama"
+                    android:layout_width="192dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="20dp"
+                    android:gravity="center_vertical"
+                    android:text="TextView"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/livescoreteama"
+                    android:layout_width="185dp"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:text="TextView" />
+
+            </TableRow>
+
+            <TableRow
+                android:id="@+id/table1Row"
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:layout_marginBottom="28dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                tools:layout_editor_absoluteX="5dp">
+
+                <TextView
+                    android:id="@+id/liveteamb"
+                    android:layout_width="200dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="20dp"
+                    android:gravity="center_vertical"
+                    android:text="TextView"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/livescoreteamb"
+                    android:layout_width="165dp"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:text="TextView" />
+            </TableRow>
+
+            <TextView
+                android:id="@+id/Compition"
+                android:layout_width="200dp"
+                android:layout_height="21dp"
+                android:layout_marginEnd="124dp"
+                android:gravity="center"
+                android:text="TextView"
+                app:layout_constraintEnd_toEndOf="parent"
+                tools:layout_editor_absoluteY="4dp" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerview_Livescore"
+        android:layout_width="391dp"
+        android:layout_height="651dp"
+        android:layout_marginTop="220dp">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+</FrameLayout>

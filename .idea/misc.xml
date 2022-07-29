@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CricketApp-master/app/src/main/res/drawable/gradiate_1botton.xml" value="0.1655" />
+        <entry key="..\:/CricketApp-master/app/src/main/res/drawable/gradiate_2botton.xml" value="0.2445" />
+        <entry key="..\:/CricketApp-master/app/src/main/res/drawable/gradiate_4botton.xml" value="0.1655" />
+        <entry key="..\:/CricketApp-master/app/src/main/res/layout/activity_main.xml" value="0.21784420289855072" />
+        <entry key="..\:/EntitySports-master/app/src/main/res/drawable/for_live.xml" value="0.113" />
+        <entry key="..\:/EntitySports-master/app/src/main/res/drawable/gradiate_1botton.xml" value="0.1435" />
+        <entry key="..\:/EntitySports-master/app/src/main/res/drawable/gradiate_2botton.xml" value="0.113" />
+        <entry key="..\:/EntitySports-master/app/src/main/res/drawable/gradiate_3botton.xml" value="0.113" />
+        <entry key="..\:/EntitySports-master/app/src/main/res/drawable/icon_matches.xml" value="0.1435" />
+        <entry key="..\:/EntitySports-master/app/src/main/res/layout/activity_icc_ranking.xml" value="0.1334853090172239" />
+        <entry key="..\:/EntitySports-master/app/src/main/res/layout/activity_live_match.xml" value="0.1911231884057971" />
+        <entry key="..\:/EntitySports-master/app/src/main/res/layout/activity_main.xml" value="0.1911231884057971" />
+        <entry key="..\:/EntitySports-master/app/src/main/res/layout/activity_match.xml" value="0.1911231884057971" />
+        <entry key="..\:/EntitySports-master/app/src/main/res/layout/activity_season.xml" value="0.1911231884057971" />
+        <entry key="..\:/EntitySports-master/app/src/main/res/layout/activity_splashscreen.xml" value="0.1911231884057971" />
+        <entry key="..\:/EntitySports-master/app/src/main/res/layout/bowler1_layout.xml" value="0.1911231884057971" />
+        <entry key="..\:/EntitySports-master/app/src/main/res/layout/compitionlist.xml" value="0.1911231884057971" />
+        <entry key="..\:/EntitySports-master/app/src/main/res/layout/fragment_completed.xml" value="0.1334853090172239" />
+        <entry key="..\:/EntitySports-master/app/src/main/res/layout/fragment_live.xml" value="0.1911231884057971" />
+        <entry key="..\:/EntitySports-master/app/src/main/res/layout/fragment_playingxi.xml" value="0.1911231884057971" />
+        <entry key="..\:/EntitySports-master/app/src/main/res/layout/fragment_score.xml" value="0.1911231884057971" />
+        <entry key="..\:/EntitySports-master/app/src/main/res/layout/fragment_scorecard.xml" value="0.1911231884057971" />
+        <entry key="..\:/EntitySports-master/app/src/main/res/layout/fragment_teamb_scorecard.xml" value="0.1911231884057971" />
+        <entry key="..\:/EntitySports-master/app/src/main/res/layout/fragment_teambfragment.xml" value="0.1911231884057971" />
+        <entry key="..\:/EntitySports-master/app/src/main/res/layout/matchdata.xml" value="0.1911231884057971" />
+        <entry key="..\:/EntitySports-master/app/src/main/res/layout/scorecard.xml" value="0.1911231884057971" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/drawable/selector.xml" value="0.1475" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/layout/activity_icc_ranking.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/layout/activity_live_match.xml" value="0.1" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/layout/activity_main.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/layout/activity_match.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/layout/activity_season.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/layout/activity_splashscreen.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/layout/bowler1_layout.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/layout/bowler_layout.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/layout/bowlerscorecard.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/layout/commentry_layout.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/layout/compitionlist.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/layout/fragment_completed.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/layout/fragment_diff_teams.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/layout/fragment_live.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/layout/layout6.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/layout/layout7.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/layout/layoutfragmentscorecard.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/layout/liveadapter.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/layout/livescoreadapter.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/layout/matchdata.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/layout/mylayout.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/layout/parentadapter.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/layout/scorecard.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/layout/titlelayout.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/Entity Sports1/app/src/main/res/menu/bottom_menu.xml" value="0.2453125" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/newExperiment1/app/src/main/res/drawable/selector.xml" value="0.1495" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/newExperiment1/app/src/main/res/layout/activity_live_match.xml" value="0.25" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/newExperiment1/app/src/main/res/layout/activity_live_score.xml" value="0.25" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/newExperiment1/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/newExperiment1/app/src/main/res/layout/activity_season.xml" value="0.25" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/newExperiment1/app/src/main/res/layout/liveadapter.xml" value="0.25" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/newExperiment1/app/src/main/res/layout/mylayout.xml" value="0.25" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/newExperiment1/app/src/main/res/layout/scorecard.xml" value="0.25" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/newExperiment1/app/src/main/res/layout/seasonlayout.xml" value="0.25" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/newExperiment1/app/src/main/res/layout/titlelayout.xml" value="0.25" />
+        <entry key="..\:/Users/Dikshit sharma/Android Projects/newExperiment1/app/src/main/res/menu/bottom_menu.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/Livefragmentadapter.xml" value="0.33" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_compition.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_demo.xml" value="0.15305686190679776" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_icc_ranking.xml" value="0.15305686190679776" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_live_match.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_live_score.xml" value="0.15" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_main.xml" value="0.22686025408348456" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_main1.xml" value="0.15305686190679776" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_main8.xml" value="0.15305686190679776" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_match.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_match_detail.xml" value="0.12" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_matches.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_new.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_player.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_schedule.xml" value="0.15305686190679776" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/activity_season.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/batsmenlayout.xml" value="0.5" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/bowler1_layout.xml" value="0.15305686190679776" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/bowler_layout.xml" value="0.67" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/bowlerscorecard.xml" value="0.5" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/comentry_layout.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/commentry_layout.xml" value="0.33" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/compition.xml" value="0.5" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/compitionlist.xml" value="0.5" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/fragment_comentary.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/fragment_commenty.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/fragment_completed.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/fragment_completed_domestic.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/fragment_completed_international.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/fragment_diff_teams.xml" value="0.15305686190679776" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/fragment_live.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/fragment_playingxi.xml" value="0.15305686190679776" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/fragment_scheduled.xml" value="0.14151346729371525" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/fragment_score.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/fragment_scorecard.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/fragment_team1scorecard.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/fragment_teamb_scorecard.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/fragment_teambfragment.xml" value="0.15305686190679776" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/fragment_top_lists.xml" value="0.15305686190679776" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/layout6.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/layout7.xml" value="0.15305686190679776" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/layoutfragmentscorecard.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/liveadapter.xml" value="0.25" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/livescoreadapter.xml" value="0.33" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/matchdata.xml" value="0.33" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/mylayout.xml" value="0.33" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/parentadapter.xml" value="0.18" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/roundList.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/roundlist.xml" value="0.28868360277136257" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/scorecard.xml" value="0.33" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/MyApplication8/app/src/main/res/layout/titlelayout.xml" value="0.22" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NewRepository/app/src/main/res/layout/activity_dummy.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NewRepository/app/src/main/res/layout/activity_main.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NewRepository/app/src/main/res/layout/activity_matches.xml" value="0.18645833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
